@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @sanchitgulati
+- 👀 I’m interested in gamedev, AI, date visualizations, research, engineering
+- 🌱 I’m currently learning usecases of AI in products
+- 📫 How to reach me @sanchitgulati
