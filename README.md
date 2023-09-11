@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sanchitgulati
-- 👀 I’m interested in game dev, AI, data visualizations, research, engineering
+- 👀 I’m interested in software product development, AI, data visualizations, research, engineering, and game dev.
 - 🎥 Uploading videos - code output and extra at [YT](https://www.youtube.com/channel/UCAc8wIa7x-ZD3M3OPrsdgSA)
 - 🌱 I’m currently learning Machine Learning for use in the gaming and entertainment industry 
 - 📫 How to reach me [@sanchitgulati](https://twitter.com/sanchitgulati)
