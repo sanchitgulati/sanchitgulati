@@ -5,5 +5,4 @@
 - 📫 How to reach me [@sanchitgulati](https://twitter.com/sanchitgulati)
 - 🎮 Old game prototypes at [itch.io](https://sanchitgulati.itch.io/)
 - 📚 [Medium.com](https://medium.com/@sanchitgulati)
-- Also, [PV Study Tool](https://kiran.tools/)
-- Godot Games [Google Play](https://play.google.com/store/apps/dev?id=7521848741631246260) 
+- Steam Games [Steam Link](https://store.steampowered.com/publisher/jion) 
